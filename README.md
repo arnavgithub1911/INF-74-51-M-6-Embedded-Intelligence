@@ -47,7 +47,6 @@ All exercises use the **PAMAP2 Physical Activity Monitoring Dataset**, originall
 - **Subjects:** 9 participants
 - **Sensors:** IMU units on hand, chest, and ankle (100Hz)
 - **Activities:** 18 physical activities including walking, running, cycling, and household tasks
-- **Contact:** Bo Zhou — bo.zhou@dfki.de
 - **Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring)
 
 ---
