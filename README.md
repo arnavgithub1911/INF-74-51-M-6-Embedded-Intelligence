@@ -74,7 +74,7 @@ Each exercise is a self-contained Jupyter notebook. To run:
 
 ```bash
 git clone https://github.com/arnavgithub1911/INF-74-51-M-6-Embedded-Intelligence
-cd embedded-intelligence/Exercise-1
+cd INF-74-51-M-6-Embedded-Intelligence/Exercise-1
 jupyter notebook
 ```
 
