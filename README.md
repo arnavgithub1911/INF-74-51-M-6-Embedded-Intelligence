@@ -73,7 +73,7 @@ Each exercise is a self-contained Jupyter notebook. To run:
 4. Run all cells in order
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/embedded-intelligence
+git clone https://github.com/arnavgithub1911/INF-74-51-M-6-Embedded-Intelligence
 cd embedded-intelligence/Exercise-1
 jupyter notebook
 ```
