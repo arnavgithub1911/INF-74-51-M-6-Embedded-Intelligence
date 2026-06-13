@@ -1,0 +1,1 @@
+# INF-74-51-M-6-Embedded-intelligence
