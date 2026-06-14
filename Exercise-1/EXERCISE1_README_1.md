@@ -166,16 +166,25 @@ Each processed subject is saved as a compressed `.npz` file:
 > **To add your own plots here:**
 > Export graphs from your notebook as `.png` files and place them in an `images/` folder inside this directory. Then uncomment and update the lines below.
 
-<!-- ![Activity Distribution](images/activity_distribution.png) -->
-<!-- ![Plot with default settings](images/single_window_plot.png) -->
-<!-- ![Plot for Window 1](images/window_1.png) -->
-<!-- ![Plot for Window 2](images/window_2.png) -->
-<!-- ![Plot for Window 3](images/window_3.png) -->
+## Activity Distribution
 
-**How to export a plot from your notebook:**
-```python
-plt.savefig("images/activity_distribution.png", dpi=150, bbox_inches='tight')
-```
+![Activity Distribution](images/activity_distribution.png)
+
+## Plot with Default Settings
+
+![Plot with default settings](images/single_window_plot.png)
+
+## Window 1
+
+![Plot for Window 1](images/window_1.png)
+
+## Window 2
+
+![Plot for Window 2](images/window_2.png)
+
+## Window 3
+
+![Plot for Window 3](images/window_3.png)
 
 ---
 
